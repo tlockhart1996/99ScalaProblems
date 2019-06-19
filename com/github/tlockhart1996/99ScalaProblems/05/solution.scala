@@ -5,6 +5,7 @@ Solution Written on 6/18/2019
 
 Reverse a list
 */
+// package com.github.tlockhart1996.99ScalaProblems
 
 object solution {
   def reverseAList[A](list: List[A]) : List[A] = list match {
