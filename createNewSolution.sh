@@ -11,6 +11,6 @@ $2
 
 object solution {
   def main(args: Array[String]) : Unit = {
-    println("Hello world")
+    println(\"Hello world\")
   }
 }" > solution.scala
